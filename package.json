@@ -1,9 +1,7 @@
 {
-  "name": "after",
-  "version": "0.0.1",
+  "name": "segmentio-after",
+  "description": "After, just like in underscore.",
+  "version": "0.1.0",
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  }
+  "license": "MIT"
 }
